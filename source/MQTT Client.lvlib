@@ -4,7 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Client.lvclass" Type="LVClass" URL="../Client class/Client.lvclass"/>
-	<Item Name="DropVI_ClientExampleCode.vi" Type="VI" URL="../DropVI_ClientExampleCode.vi"/>
 	<Item Name="Session.Client.lvclass" Type="LVClass" URL="../Session.Client/Session.Client.lvclass"/>
+	<Item Name="DropVI_ClientExampleCode.vi" Type="VI" URL="../DropVI_ClientExampleCode.vi"/>
+	<Item Name="DropVI_SimpleClientPublisher.vi" Type="VI" URL="../DropVI_SimpleClientPublisher.vi"/>
+	<Item Name="DropVI_SimpleClientSubscriber.vi" Type="VI" URL="../DropVI_SimpleClientSubscriber.vi"/>
+	<Item Name="DropVI_SimpleClient_Pub-Sub.vi" Type="VI" URL="../DropVI_SimpleClient_Pub-Sub.vi"/>
+	<Item Name="DropVI_SimpleReconnectingPublisher.vi" Type="VI" URL="../DropVI_SimpleReconnectingPublisher.vi"/>
 </Library>
