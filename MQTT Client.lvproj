@@ -15,6 +15,7 @@
 		<Item Name="Example" Type="Folder"/>
 		<Item Name="Unit Test (requires TCP Connection package)" Type="Folder">
 			<Item Name="Test Mutex.vi" Type="VI" URL="../unit tests/Test Mutex.vi"/>
+			<Item Name="Test Publish QoS 0 Latency.vi" Type="VI" URL="../unit tests/Test Publish QoS 0 Latency.vi"/>
 		</Item>
 		<Item Name="MQTT Client.lvlib" Type="Library" URL="../source/MQTT Client.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
